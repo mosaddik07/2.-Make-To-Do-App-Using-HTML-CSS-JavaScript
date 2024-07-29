@@ -115,9 +115,9 @@ button:hover {
   background: #e74c3c;
 }
 
-ul li::before {
+/* ul li::before {
   background-image: url("/images/unchecked.png");
-}
+} */
 
 ul li.checked::before {
   background-image: url("/images/checked.png");
